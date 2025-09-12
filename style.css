@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(255, 127, 127);
+}
+
+pre  {
+    color: bisque;
+    font-size: small;
+    font-style: oblique;
+}
+
+img {
+    top: down;
+    left: right;
+}
